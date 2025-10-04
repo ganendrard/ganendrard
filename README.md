@@ -1,4 +1,4 @@
-### Hi i'm Ganendra👋
+<!-- ### Hi i'm Ganendra👋 -->
 
 ![Ganendrard](img/github-header-banner.png)
 
@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently Student at Jakarta State University 
+<!-- 🔭 I’m currently Student at Jakarta State University  -->
