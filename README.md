@@ -30,25 +30,16 @@
 
 <p><sub>Ungraduated Student at Jakarta State University</sub></p>
 
-<h2>Proof at a glance</h2>
-
-<table width="100%">
-<tr>
-<td width="25%" align="center"><strong>14</strong><br /><sub>Repositories</sub></td>
-<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
-<td width="25%" align="center"><strong>61</strong><br /><sub>Contributions</sub></td>
-<td width="25%" align="center"><strong>1</strong><br /><sub>Followers</sub></td>
-</tr>
-</table>
+<h2>GitHub Statistics</h2>
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=ganendrard&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F218474058%3Fu%3Dd65858a2b5ba1fdbf90434c21ac5e1054cce2f18%26v%3D4&v=recruiter-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=ganendrard&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F218474058%3Fu%3Dd65858a2b5ba1fdbf90434c21ac5e1054cce2f18%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Ganendra Rizky Deniartra GitHub proof metrics" />
-</picture>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ganendrard&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=ganendrard&theme=tokyonight&hide_border=true" />
 </p>
 
-<h2>Selected work</h2>
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganendrard&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 <table width="100%">
 <tr>
