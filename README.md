@@ -29,19 +29,10 @@
   </tr>
 </table>
 
-<h2>GitHub Statistics & Trophies</h2>
+<h2>GitHub Statistics</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ganendrard&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;margin-w=15" alt="Ganendra Trophies" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ganendrard&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ganendrard&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganendrard&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ganendrard&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <h2>Selected Projects</h2>
@@ -50,8 +41,8 @@
   <tr>
     <td width="58%" valign="top">
       <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=ganendrard&amp;theme=github-dark&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F218474058%3Fu%3Dd65858a2b5ba1fdbf90434c21ac5e1054cce2f18%26v%3D4&amp;repos=ganendrard%2Fblaugrana-legacy%2Cganendrard%2FMCRLogbook%2Cganendrard%2Fabsensi-pkm-labschool%2Cganendrard%2FALUR-PENYIARAN&amp;v=recruiter-projects-1&amp;mode=light" />
-        <img src="https://www.gitskins.com/api/section/projects?username=ganendrard&amp;theme=github-dark&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F218474058%3Fu%3Dd65858a2b5ba1fdbf90434c21ac5e1054cce2f18%26v%3D4&amp;repos=ganendrard%2Fblaugrana-legacy%2Cganendrard%2FMCRLogbook%2Cganendrard%2Fabsensi-pkm-labschool%2Cganendrard%2FALUR-PENYIARAN&amp;v=recruiter-projects-1&amp;mode=dark" width="100%" alt="Ganendra Rizky Deniartra selected projects" />
+        <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=ganendrard&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F218474058%3Fu%3Dd65858a2b5ba1fdbf90434c21ac5e1054cce2f18%26v%3D4&repos=ganendrard%2Fblaugrana-legacy%2Cganendrard%2FMCRLogbook%2Cganendrard%2Fabsensi-pkm-labschool%2Cganendrard%2FALUR-PENYIARAN&v=recruiter-projects-1&mode=light" />
+        <img src="https://www.gitskins.com/api/section/projects?username=ganendrard&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F218474058%3Fu%3Dd65858a2b5ba1fdbf90434c21ac5e1054cce2f18%26v%3D4&repos=ganendrard%2Fblaugrana-legacy%2Cganendrard%2FMCRLogbook%2Cganendrard%2Fabsensi-pkm-labschool%2Cganendrard%2FALUR-PENYIARAN&v=recruiter-projects-1&mode=dark" width="100%" alt="Ganendra Rizky Deniartra selected projects" />
       </picture>
     </td>
     <td width="42%" valign="top">
@@ -86,21 +77,21 @@
 <h2>Technical toolkit</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <br />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&amp;logo=tailwind-css&amp;logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <br />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&amp;logo=figma&amp;logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&amp;logo=canva&amp;logoColor=white" alt="Canva" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
 </p>
 
 <table width="100%">
@@ -117,8 +108,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=ganendrard&amp;theme=github-dark&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F218474058%3Fu%3Dd65858a2b5ba1fdbf90434c21ac5e1054cce2f18%26v%3D4&amp;v=recruiter-heatmap-1&amp;mode=light" />
-    <img src="https://www.gitskins.com/api/section/heatmap?username=ganendrard&amp;theme=github-dark&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F218474058%3Fu%3Dd65858a2b5ba1fdbf90434c21ac5e1054cce2f18%26v%3D4&amp;v=recruiter-heatmap-1&amp;mode=dark" width="100%" alt="Ganendra Rizky Deniartra contribution activity" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=ganendrard&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F218474058%3Fu%3Dd65858a2b5ba1fdbf90434c21ac5e1054cce2f18%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+    <img src="https://www.gitskins.com/api/section/heatmap?username=ganendrard&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F218474058%3Fu%3Dd65858a2b5ba1fdbf90434c21ac5e1054cce2f18%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Ganendra Rizky Deniartra contribution activity" />
   </picture>
 </p>
 
