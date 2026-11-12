@@ -1,7 +1,7 @@
 <div align="center">
   <p><sub>RECRUITER SIGNAL BRIEF · ganendrard</sub></p>
   <h1>Ganendra Rizky Deniartra</h1>
-  <h2>Frontend or full-stack engineer</h2>
+  <h2>Web Developer and Data Enthuasiast</h2>
   <p>Ungraduated Student at Jakarta State University</p>
   <p><strong>● Building and sharing work in public</strong></p>
   <p><sub>Based in Jakarta</sub></p>
