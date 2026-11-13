@@ -1,6 +1,7 @@
 <div align="center">
+  <p><sub>RECRUITER SIGNAL BRIEF · ganendrard</sub></p>
   <h1>Ganendra Rizky Deniartra</h1>
-  <h2>Web Developer and Data Enthuasiast</h2>
+  <h2>Frontend or full-stack engineer</h2>
   <p>Ungraduated Student at Jakarta State University</p>
   <p><strong>● Building and sharing work in public</strong></p>
   <p><sub>Based in Jakarta</sub></p>
@@ -73,7 +74,7 @@
   </tr>
 </table>
 
-<h2>Technical toolkit</h2>
+<h2 align="center">Technical toolkit</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -93,13 +94,13 @@
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
 </p>
 
-<table width="100%">
+<table align="center">
   <tr>
-    <td width="20%" align="center"><strong>TypeScript</strong><br /><sub>35% of public code</sub></td>
-    <td width="20%" align="center"><strong>HTML</strong><br /><sub>35% of public code</sub></td>
-    <td width="20%" align="center"><strong>JavaScript</strong><br /><sub>17% of public code</sub></td>
-    <td width="20%" align="center"><strong>CSS</strong><br /><sub>8% of public code</sub></td>
-    <td width="20%" align="center"><strong>Python</strong><br /><sub>5% of public code</sub></td>
+    <td align="center"><strong>TypeScript</strong><br /><sub>35% of public code</sub></td>
+    <td align="center"><strong>HTML</strong><br /><sub>35% of public code</sub></td>
+    <td align="center"><strong>JavaScript</strong><br /><sub>17% of public code</sub></td>
+    <td align="center"><strong>CSS</strong><br /><sub>8% of public code</sub></td>
+    <td align="center"><strong>Python</strong><br /><sub>5% of public code</sub></td>
   </tr>
 </table>
 
